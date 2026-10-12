@@ -1,0 +1,6 @@
+{
+  "name": "Metabolic Glass — Clinical Bio-Analytics Engine",
+  "description": "A minimalist, iOS liquid glass dark mode workstation for tracking biometric telemetry, cognitive work output, and thermic food absorption dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
